@@ -1,8 +1,8 @@
 
-## 👋 Hola, soy Diego Ballester. Actualmente soy estudiante de Python 🐍
+## 👋 Hola, soy Diego Ballester.
 
 📚 Aprendizaje en Línea y Autodidacta
-Me encanta aprender Python a través de cursos en línea y explorar recursos autodidactas. Disfruto desafíos y proyectos que me ayuden a fortalecer mis habilidades.
+Actualmente soy estudiante de Python. Me encanta aprenderlo a través de cursos en línea y explorar recursos autodidactas. Disfruto desafíos y proyectos que me ayuden a fortalecer mis habilidades.
 
 💡 Explorando Tecnologías
 Además de Python, también estoy interesado en explorar otras tecnologías relacionadas, como Django, Flask, Git, PostgreSQL. Siempre estoy pensando cómo aplicar los conocimientos que voy adquiriendo en proyectos nuevos.
