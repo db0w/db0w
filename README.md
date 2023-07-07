@@ -1,13 +1,13 @@
 
 ## 👋 Hola, soy Diego Ballester.
 
-📚 Aprendizaje en Línea y Autodidacta
+📚 Aprendizaje en Línea y Autodidacta <br>
 Actualmente soy estudiante de Python. Me encanta aprenderlo a través de cursos en línea y explorar recursos autodidactas. Disfruto desafíos y proyectos que me ayuden a fortalecer mis habilidades.
 
-💡 Explorando Tecnologías
+💡 Explorando Tecnologías <br>
 Además de Python, también estoy interesado en explorar otras tecnologías relacionadas, como Django, Flask, Git, PostgreSQL. Siempre estoy pensando cómo aplicar los conocimientos que voy adquiriendo en proyectos nuevos.
 
-🌱 En Constante Crecimiento
+🌱 En Constante Crecimiento <br>
 Como estudiante, me esfuerzo por seguir aprendiendo y mejorando mis habilidades de programación. Participar en desafíos y colaborar en proyectos me ayuda a consolidar mis conocimientos y adquirir experiencia práctica.
 
 <!--
@@ -32,7 +32,7 @@ Estoy interesado en colaborar en proyectos de código abierto y en contribuir a 
 
 ## 📞 Contacto
 
-📧 Correo electrónico: diego.bow@proton.me 
+📧 Correo electrónico: diego.bow@proton.me  <br>
 💼 LinkedIn: www.linkedin.com/in/diegoballester
 
 ¡Gracias por visitar mi perfil! 👀
