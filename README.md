@@ -1,3 +1,20 @@
+## 👋 Hello, I'm Diego Ballester.
+📚 Online and Self-taught Learning <br>
+Currently, I am a student of Python. I love learning it through online courses and exploring self-taught resources. I enjoy challenges and projects that help me strengthen my skills.
+
+💡 Exploring Technologies <br>
+In addition to Python, I'm also interested in exploring other related technologies such as Django, Flask, Git, and PostgreSQL. I'm always thinking about how to apply the knowledge I'm gaining in new projects.
+
+🌱 Constant Growth <br>
+As a student, I strive to keep learning and improving my programming skills. Participating in challenges and collaborating on projects helps me solidify my knowledge and gain practical experience.
+
+## 🤝 Contributions and Collaboration
+I'm interested in collaborating on open-source projects and contributing to the Python community. If you have any ideas or projects in mind, feel free to contact me.
+<br>
+
+Thanks for visit my profile! 👀
+##
+<br>
 
 ## 👋 Hola, soy Diego Ballester.
 
